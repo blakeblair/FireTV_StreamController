@@ -1,0 +1,20 @@
+{
+  "name": "Fire TV ADB",
+  "version": "0.1.2",
+  "app-version": "1.5.0-beta.14",
+  "minimum-app-version": "1.5.0-beta.14",
+  "id": "dev_blakeblair_FireTVADB",
+  "github": "https://github.com/blakeblair/FireTV_StreamController",
+  "thumbnail": "assets/remote.svg",
+  "descriptions": {
+    "en_US": "Control Fire TV from StreamController through Android Debug Bridge."
+  },
+  "short-descriptions": {
+    "en_US": "Fire TV remote controls over ADB"
+  },
+  "tags": [
+    "Fire TV",
+    "ADB",
+    "Remote Control"
+  ]
+}
