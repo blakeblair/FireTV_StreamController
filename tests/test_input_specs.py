@@ -1,6 +1,6 @@
 import unittest
 
-from dev_blakeblair_FireTVADB.actions.specs import BUTTONS
+from FireTV_StreamController.actions.specs import BUTTONS
 
 
 class InputSpecTests(unittest.TestCase):

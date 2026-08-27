@@ -1,9 +1,9 @@
 {
   "name": "Fire TV ADB",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "app-version": "1.5.0-beta.14",
   "minimum-app-version": "1.5.0-beta.14",
-  "id": "dev_blakeblair_FireTVADB",
+  "id": "FireTV_StreamController",
   "github": "https://github.com/blakeblair/FireTV_StreamController",
   "thumbnail": "assets/remote.svg",
   "descriptions": {

@@ -79,7 +79,7 @@ class FireTVADB(PluginBase):
         self.register(
             plugin_name="Fire TV ADB",
             github_repo="https://github.com/blakeblair/FireTV_StreamController",
-            plugin_version="0.1.2",
+            plugin_version="0.2.0",
             app_version="1.5.0-beta.14",
         )
 

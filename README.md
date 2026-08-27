@@ -83,7 +83,7 @@ The Nix package uses StreamController's normal data directory unless you changed
 
 ```bash
 mkdir -p ~/.var/app/com.core447.StreamController/data/plugins
-cp -r dev_blakeblair_FireTVADB ~/.var/app/com.core447.StreamController/data/plugins/
+cp -r FireTV_StreamController ~/.var/app/com.core447.StreamController/data/plugins/
 ```
 
 Restart StreamController.
@@ -118,7 +118,7 @@ The plugin intentionally asks for the component instead of guessing application 
 ## Source layout
 
 ```text
-dev_blakeblair_FireTVADB/
+FireTV_StreamController/
 ├── actions/
 ├── assets/
 ├── controller.py

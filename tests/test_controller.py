@@ -3,7 +3,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from dev_blakeblair_FireTVADB.controller import FireTVController
+from FireTV_StreamController.controller import FireTVController
 
 
 class PluginStub:
